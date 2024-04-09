@@ -1,0 +1,19 @@
+{
+  "name": "redesigned-octo-barnacle",
+  "version": "1.0.0",
+  "description": "Testing stuff with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdnanSG/redesigned-octo-barnacle.git"
+  },
+  "author": "AdnanSG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdnanSG/redesigned-octo-barnacle/issues"
+  },
+  "homepage": "https://github.com/AdnanSG/redesigned-octo-barnacle#readme"
+}
